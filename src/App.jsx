@@ -1,6 +1,6 @@
 
 import Navbar from './components/Navbar'
-import './app.css'
+import './App.css'
 
 export default function App() {
   return (
